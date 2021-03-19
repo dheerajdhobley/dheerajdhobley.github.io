@@ -9,4 +9,4 @@ h3,h4,h5,h6{color:#AAA}
 a{color:#F55}
 a::before{content:'\01F517 [ '}
 a::after{content:' ]'}
-a:hover{color:#F57}
+a:hover{color:#F57;font-weight:revert}
