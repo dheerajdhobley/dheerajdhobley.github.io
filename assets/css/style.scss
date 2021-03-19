@@ -2,9 +2,9 @@
 ---
 
 @import "jekyll-theme-minimal";
-  body{background:#000;color:#F5ABA0}
-  h1,h2,h3,h4,h5,h6{color:#FFF}
-  h2{color:#DDD}
-  h3,h4,h5,h6{color:#AAA}
-  a{color:#FF0}
-  a:hover{color:#F80}
+body{background:#000;color:#F5ABA0}
+h1,h2,h3,h4,h5,h6{color:#FFF}
+h2{color:#DDD}
+h3,h4,h5,h6{color:#AAA}
+a{color:#FF0;font-weight:normal;text-decoration:underline #F5ABA0 wavy}
+a:hover{color:#F80}
