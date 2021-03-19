@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Dheeraj Dhobley
 description: A digital business card in the form of a world wide web presence.
+minima:
+  skin: dark
