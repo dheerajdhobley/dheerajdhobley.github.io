@@ -7,6 +7,6 @@ h1,h2,h3,h4,h5,h6{color:#FFF}
 h2{color:#DDD}
 h3,h4,h5,h6{color:#AAA}
 a{color:#F55}
-a::before{content:'\01F517 [ '}
-a::after{content:' ]'}
+a::before{content:'[\0000A08\0000A0'}
+a::after{content:'\0000A0]'}
 a:hover{color:#F57;font-weight:revert}
