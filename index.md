@@ -8,7 +8,9 @@ I like working with computers. My fields of interest include the following:
 6. permissionless cryptocurrencies.
 
 ## About me
-I have a Bachelor's degree in Electrical and Computer Systems Engineering from Monash University. I work on serial-interface devices in gaming and other fun things.
+I have a Bachelor's degree in Electrical and Computer Systems Engineering from Monash University.
+
+## [Blogger web-design portfolio](https://webdesignportfolio-dheeraj.blogspot.com/)
 
 ## Hobbies and interests
 1. My favourite video game: *Burnout Paradise*,
